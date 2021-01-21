@@ -1,15 +1,11 @@
 ﻿using System;
 
-namespace GenericsIntro
+namespace MyDictionary
 {
     class Program
     {
         static void Main(string[] args)
         {
-            MyList<string> isimler = new MyList<string>();
-            isimler.Add("Alperen");
-            
-
             Console.WriteLine("Hello World!");
         }
     }
